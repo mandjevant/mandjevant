@@ -13,9 +13,9 @@ I'm a self-taught programmer with experience in various languages.
 ---  
   
 <a href="https://github.com/mandjevant">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandjevant&show_icons=true&hide_border=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mandjevant&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/mandjevant">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandjevant&layout=compact&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandjevant&layout=compact&theme=tokyonight" />
 </a>
