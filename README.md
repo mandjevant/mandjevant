@@ -7,7 +7,6 @@ I'm a self-taught programmer with experience in various languages.
 - 🌱 I’m currently learning how to properly function in a team of developers.
 - 👯 I’m always looking to collaborate with other developers!
 - 🥅 2020 Goals: Making meaningful contributions to Open Source projects in addition to more teamwork.
-- ⚡ Weekly goal: 100 meaningful contributions and pick up an old project.
 
 <a href="https://github.com/mandjevant">
   <img src="https://komarev.com/ghpvc/?username=mandjevant&style=flat-square" />
