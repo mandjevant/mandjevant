@@ -3,8 +3,7 @@
 My name is Pim, I am a first year Operations Management and Logistics student at TU Eindhoven.  
 I'm a self-taught programmer with experience in various languages.
 
-- 🔭 I’m currently working on [discord bots](https://github.com/floor-gang/)!
-- 🌱 I’m currently learning how to properly function in a team of developers.
+- 🔭 I’m currently working on a [flight tracker](https://github.com/mandjevant/flightTracker) (Soon publicly visible)!
 - 👯 I’m always looking to collaborate with other developers!
 - 🥅 2020 Goals: Making meaningful contributions to Open Source projects in addition to more teamwork.
 
