@@ -1,9 +1,9 @@
 ### Hello
 
-My name is Pim, I am a first year Operations Management and Logistics student at TU Eindhoven.  
+My name is Pim, I am a second year Operations Management and Logistics student at TU Eindhoven.  
 I'm a self-taught programmer with experience in various languages.
 
-- 🔭 I’m currently working on a [nonogram generator](https://github.com/mandjevant/nonogen)
+- 🔭 I’m currently working on a modular approach to the Deep Q-Network and its variations.
 - 👯 I’m always looking to collaborate with other developers!
 - 🥅 2021 Goals: Making meaningful contributions to Open Source projects in addition to more teamwork.
 
