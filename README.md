@@ -1,11 +1,11 @@
 ### Hello
 
-My name is Pim, I am a second year Operations Management and Logistics student at TU Eindhoven.  
+My name is Pim, I study Operations Management and Logistics, and Data Science and Artificial Intelligence at TU Eindhoven.
 I'm a self-taught programmer with experience in various languages.
 
 - 🔭 I’m currently working on a modular approach to the Deep Q-Network and its variations.
 - 👯 I’m always looking to collaborate with other developers!
-- 🥅 2021 Goals: Making meaningful contributions to Open Source projects in addition to more teamwork.
+- 🥅 2022 Goals: Making meaningful contributions to Open Source projects in addition to more teamwork.
 
 <a href="https://github.com/mandjevant">
   <img src="https://komarev.com/ghpvc/?username=mandjevant&style=flat-square" />
