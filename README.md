@@ -1,11 +1,7 @@
 ### Hello
 
-My name is Pim, I study Operations Management and Logistics, and Data Science and Artificial Intelligence at TU Eindhoven.
+My name is Pim, I have a master's degree in Operations Management and Logistics and a master's degree in Data Science and Artificial Intelligence from TU Eindhoven.
 I'm a self-taught programmer with experience in various languages.
-
-- 🔭 I’m currently working on a modular approach to the Deep Q-Network and its variations.
-- 👯 I’m always looking to collaborate with other developers!
-- 🥅 2022 Goals: Making meaningful contributions to Open Source projects in addition to more teamwork.
 
 <a href="https://github.com/mandjevant">
   <img src="https://komarev.com/ghpvc/?username=mandjevant&style=flat-square" />
