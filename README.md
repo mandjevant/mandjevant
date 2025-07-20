@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Pim 👋</h1>
-  <h3>AI Engineer | Data Scientist | React/TypeScript Enthusiast</h3>
+  <h3>AI Engineer | Data Scientist</h3>
   <a href="https://github.com/mandjevant">
     <img src="https://komarev.com/ghpvc/?username=mandjevant&style=flat-square" />
   </a>
@@ -15,7 +15,7 @@
   🚀 Currently working as an <b>AI Engineer</b>, building intelligent solutions with Python, PySpark, and PyTorch.<br>
   🧑‍💻 Passionate about modern web development with <b>React & TypeScript</b>.<br>
   ☁️ Skilled in cloud automation (Bash & PowerShell) and DevOps workflows.<br>
-  🎓 <b>2x MSc</b>: Operations Management & Logistics, Data Science & AI (TU Eindhoven).<br>
+  🎓 <b>2x Ir. MSc</b>: Operations Management & Logistics, Data Science & AI (TU Eindhoven).<br>
   🛠️ Self-taught programmer with a passion for solving real-world problems.
 </p>
 
@@ -33,9 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="pyspark" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
 </p>
 <p align="left">
   <b>Web & Cloud:</b><br>
